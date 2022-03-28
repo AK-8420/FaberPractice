@@ -1,2 +1,4 @@
 This is test file.
 Change
+ Add text from first branch
+ Add text from second branch
